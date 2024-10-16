@@ -1,12 +1,12 @@
 # Library Management Application
 This is a web-based Library Management system built with HTML, CSS, JavaScript, and Bootstrap. The application allows users to search for books using an external API, displays search results with book images and author information, and provides a user-friendly interface.
 
-# Features
-->Responsive UI built with Bootstrap.
-->Search functionality that fetches book data from an external API (https://apis.ccbp.in/book-store) based on the user's input.
-->Spinner animation displayed while fetching data to improve user experience.
-->Dynamically rendered search results including book title, author, and cover image.
-->Error handling: Displays a "No results found" message when no matching books are available.
+<h2>Features</h2>
+->Responsive UI built with Bootstrap.<br>
+->Search functionality that fetches book data from an external API (https://apis.ccbp.in/book-store) based on the user's input.<br>
+->Spinner animation displayed while fetching data to improve user experience.<br>
+->Dynamically rendered search results including book title, author, and cover image.<br>
+->Error handling: Displays a "No results found" message when no matching books are available.<br>
 
 # How It Works
 ->The user types a book title into the search input field.
