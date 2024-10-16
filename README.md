@@ -10,13 +10,13 @@ This is a web-based Library Management system built with HTML, CSS, JavaScript, 
 
 <h2>How It Works</h2>
 ->The user types a book title into the search input field.<br>
-->When the user presses the "Enter" key, a request is sent to the book API using the fetch method.C
+->When the user presses the "Enter" key, a request is sent to the book API using the fetch method.<br>
 ->A spinner appears during the loading process to inform the user that the data is being fetched.<br>
-->Once the results are fetched:
+->Once the results are fetched:<br>
   --If there are matching books, the application displays the book cover, title, and author.<br>
   --If no results are found, a "No results found" message is shown.<br>
 
 <h2>Key Files</h2>
-->index.html: The main HTML file that contains the structure of the web page.<br>
-->style.css: A custom stylesheet that provides additional styling beyond Bootstrap.<br>
-->script.js: The JavaScript file responsible for fetching book data and manipulating the DOM based on user input.<br>
+->lm.html: The main HTML file that contains the structure of the web page.<br>
+->lm.css: A custom stylesheet that provides additional styling beyond Bootstrap.<br>
+->lm.js: The JavaScript file responsible for fetching book data and manipulating the DOM based on user input.<br>
