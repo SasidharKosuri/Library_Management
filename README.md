@@ -8,15 +8,15 @@ This is a web-based Library Management system built with HTML, CSS, JavaScript, 
 ->Dynamically rendered search results including book title, author, and cover image.<br>
 ->Error handling: Displays a "No results found" message when no matching books are available.<br>
 
-# How It Works
-->The user types a book title into the search input field.
-->When the user presses the "Enter" key, a request is sent to the book API using the fetch method.
-->A spinner appears during the loading process to inform the user that the data is being fetched.
+<h2>How It Works</h2>
+->The user types a book title into the search input field.<br>
+->When the user presses the "Enter" key, a request is sent to the book API using the fetch method.C
+->A spinner appears during the loading process to inform the user that the data is being fetched.<br>
 ->Once the results are fetched:
-  --If there are matching books, the application displays the book cover, title, and author.
-  --If no results are found, a "No results found" message is shown.
+  --If there are matching books, the application displays the book cover, title, and author.<br>
+  --If no results are found, a "No results found" message is shown.<br>
 
-# Key Files
-->index.html: The main HTML file that contains the structure of the web page.
-->style.css: A custom stylesheet that provides additional styling beyond Bootstrap.
-->script.js: The JavaScript file responsible for fetching book data and manipulating the DOM based on user input.
+<h2>Key Files</h2>
+->index.html: The main HTML file that contains the structure of the web page.<br>
+->style.css: A custom stylesheet that provides additional styling beyond Bootstrap.<br>
+->script.js: The JavaScript file responsible for fetching book data and manipulating the DOM based on user input.<br>
